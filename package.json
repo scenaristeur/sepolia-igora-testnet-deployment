@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "- https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "chai": "^5.1.0",
     "ethers": "^5.7.2",
     "hardhat": "^2.22.2"
   },
