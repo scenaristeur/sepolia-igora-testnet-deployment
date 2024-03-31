@@ -20,3 +20,5 @@ DEcompile to see the code of the contract
 npx hardhat run deployments/deployToken.js --network sepolia
 
  Contract Deployed to Address: 0x7dff7243C5A84F7B0fb8ae547FF390F9C5A15bd9
+
+https://sepolia.etherscan.io/address/0x7dff7243C5A84F7B0fb8ae547FF390F9C5A15bd9
